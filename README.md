@@ -1,6 +1,6 @@
 # Udemy_EDA
 
-Check a detailed presentation on Youtube https://www.youtube.com/watch?v=2BD3xzdz-ZQ<br />
+Check a detailed presentation on Youtube : https://www.youtube.com/watch?v=2BD3xzdz-ZQ<br />
 >Teammates:<br />
 Tamizhiniyan S R,<br />
 Ayush Paul,<br />
